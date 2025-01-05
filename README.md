@@ -1,1 +1,0 @@
-# slowle-curr-word
